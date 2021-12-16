@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.1"
+  },
+  "name": "SequelizeProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
